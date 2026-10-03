@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.fwd.sms.app-mergeDebugResources-47:/layout/item_rule.xml",
+        "source": "com.fwd.sms.app-main-50:/layout/item_rule.xml"
+    },
+    {
+        "merged": "com.fwd.sms.app-mergeDebugResources-47:/layout/activity_rule_editor.xml",
+        "source": "com.fwd.sms.app-main-50:/layout/activity_rule_editor.xml"
+    },
+    {
+        "merged": "com.fwd.sms.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.fwd.sms.app-main-50:/layout/activity_main.xml"
+    }
+]
